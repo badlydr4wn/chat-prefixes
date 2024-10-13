@@ -61,43 +61,43 @@ Hello
 ## 🔨 Moderation Team
 
 ### 🔨 Senior Moderator
-> <font size="2"><b><font color="ad343e">[</font><font color="#c43b46">SR MODERATOR</font><font color="ad343e">]</font></b></font><br />
+> <font size="2"><b><font color="#ad343e">[</font><font color="#c43b46">SR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 Hello
 
 ```md
- <font size="12"><b><font color="ad343e">[</font><font color="#c43b46">SR MODERATOR</font><font color="ad343e">]</font></b></font><br />
+ <font size="12"><b><font color="#ad343e">[</font><font color="#c43b46">SR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 ```
 
 ### 🔨 Moderator
-> <font size="2"><b><font color="ad343e">[</font><font color="#ad343e">MODERATOR</font><font color="ad343e">]</font></b></font><br />
+> <font size="2"><b><font color="#ad343e">[</font><font color="#ad343e">MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 Hello
 
 ```md
- <font size="12"><b><font color="ad343e">[</font><font color="#ad343e">MODERATOR</font><font color="ad343e">]</font></b></font><br />
+ <font size="12"><b><font color="#ad343e">[</font><font color="#ad343e">MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 ```
 
 ### 🔨 Junior Moderator
-> <font size="2"><b><font color="ad343e">[</font><font color="#962d36">JR MODERATOR</font><font color="ad343e">]</font></b></font><br />
+> <font size="2"><b><font color="#ad343e">[</font><font color="#962d36">JR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 Hello
 
 ```md
- <font size="12"><b><font color="ad343e">[</font><font color="#962d36">JR MODERATOR</font><font color="ad343e">]</font></b></font><br />
+ <font size="12"><b><font color="#ad343e">[</font><font color="#962d36">JR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 ```
 
 ### 🔨 Trial Moderator
-> <font size="2"><b><font color="ad343e">[</font><font color="#ff6978">TRIAL MODERATOR</font><font color="ad343e">]</font></b></font><br />
+> <font size="2"><b><font color="#ad343e">[</font><font color="#ff6978">TRIAL MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 Hello
 
 ```md
- <font size="12"><b><font color="ad343e">[</font><font color="#ff6978">TRIAL MODERATOR</font><font color="ad343e">]</font></b></font><br />
+ <font size="12"><b><font color="#ad343e">[</font><font color="#ff6978">TRIAL MODERATOR</font><font color="#ad343e">]</font></b></font><br />
 ```
 
 ### 🌿 Trainee
-> <font size="2"><b><font color="ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="ad343e">]</font></b></font><br />
+> <font size="2"><b><font color="#ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="#ad343e">]</font></b></font><br />
 Hello
 
 ```md
- <font size="12"><b><font color="ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="ad343e">]</font></b></font><br />
+ <font size="12"><b><font color="#ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="#ad343e">]</font></b></font><br />
 ```
 
 ---
@@ -195,21 +195,7 @@ Hello
 Hello
 
 ```md
-<b><font size="2" color="#000000">[STAFF BLACKLISTED]</font></b><br />
+<b><font size="12" color="#000000">[STAFF BLACKLISTED]</font></b><br />
 ```
 
-## 🎭 Quarantined
-> <b><font size="2" color="#B38844">[QUARANTINED]</font></b><br />
-Hello
-
-```md
-<b><font size="2" color="#B38844">[QUARANTINED]</font></b><br />
-```
-
-## 🔎 Under Investigation
-> <b><font size="2" color="#590000">[UNDER INVESTIGATION]</font></b><br />
-Hello
-
-```md
-<b><font size="2" color="#590000">[UNDER INVESTIGATION]</font></b><br />
-```
+*More coming soon...*
