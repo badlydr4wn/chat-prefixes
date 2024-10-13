@@ -16,7 +16,7 @@ Hello
 Hello
 
 ```md
-<font size="12"><b><font color="#8686fe">[</font><font color="#258fe1">SR MANAGEMENT</font><font color="#8686fe">]</font></b></font><br />d
+<font size="12"><b><font color="#8686fe">[</font><font color="#258fe1">SR MANAGEMENT</font><font color="#8686fe">]</font></b></font><br />
 ```
 
 ### 🛠️ Management
