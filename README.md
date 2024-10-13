@@ -1,3 +1,5 @@
+**Disclaimer**: Preview colours don't display properly - download this page and view in [Visual Studio Code](https://code.visualstudio.com)instead.
+
 # 🌴 Sydney Roleplay Staff - Chat Prefixes
 Chat Prefixes are special snippets that you can paste before your messages and add a little bit more formality as staff. They are completely decorative and it's up to you whether you want to use them. A tutorial on how to use them is found below. (**📚 Tutorial**)
 
