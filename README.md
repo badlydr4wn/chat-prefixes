@@ -172,7 +172,7 @@ Hello
 <font size="36">🛠️</font><br />
 ```
 
-## 🛡️ Shield (Moderator)
+## 🛡️ Shield (Administrator/Moderator)
 > <font size="6">🛡️</font><br />
 Hello
 
