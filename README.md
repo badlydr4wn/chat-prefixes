@@ -106,51 +106,51 @@ Hello
 Basic prefixes consist of a single colour prefix and don't use "SR" or "JR" modifiers.
 
 ## 👑 Leadership
-> <font size="2" color="#86cafe">[LEADERSHIP]</font><br />
+> <b><font size="2" color="#86cafe">[LEADERSHIP]</font></b><br />
 Hello
 
 ```md
-<font size="12" color="#86cafe">[LEADERSHIP]</font><br />
+<b><font size="12" color="#86cafe">[LEADERSHIP]</font></b><br />
 ```
 
 ## 🛠️ Senior Management
-> <font size="2" color="#258fe1">[MANAGEMENT]</font><br />
+> <b><font size="2" color="#258fe1">[MANAGEMENT]</font></b><br />
 Hello
 
 ```md
-<font size="12" color="#258fe1">[MANAGEMENT]</font><br />
+<b><font size="12" color="#258fe1">[MANAGEMENT]</font></b><br />
 ```
 
 ## 🛠️ Management
-> <font size="2" color="#8686fe">[MANAGEMENT]</font><br />
+> <b><font size="2" color="#8686fe">[MANAGEMENT]</font></b><br />
 Hello
 
 ```md
-<font size="12" color="#8686fe">[MANAGEMENT]</font><br />
+<b><font size="12" color="#8686fe">[MANAGEMENT]</font></b><br />
 ```
 
 ## 🛡️ Administration Team
-> <font size="2" color="#e991c2">[ADMINISTRATOR]</font><br />
+> <b><font size="2" color="#e991c2">[ADMINISTRATOR]</font></b><br />
 Hello
 
 ```md
-<font size="12" color="#e991c2">[ADMINISTRATOR]</font><br />
+<b><font size="12" color="#e991c2">[ADMINISTRATOR]</font></b><br />
 ```
 
 ## 🔨 Moderation Team
-> <font size="2" color="#ad343e">[MODERATOR]</font><br />
+> <b><font size="2" color="#ad343e">[MODERATOR]</font></b><br />
 Hello
 
 ```md
-<font size="12" color="#ad343e">[MODERATOR]</font><br />
+<b><font size="12" color="#ad343e">[MODERATOR]</font></b><br />
 ```
 
 ## 🌿 Trainee
-> <font size="2" color="#3dff64">[TRAINEE]</font><br />
+> <b><font size="2" color="#3dff64">[TRAINEE]</font></b><br />
 Hello
 
 ```md
-<font size="12" color="#3dff64">[TRAINEE]</font><br />
+<b><font size="12" color="#3dff64">[TRAINEE]</font></b><br />
 ```
 
 # "UBasic"/Ultra-compact
