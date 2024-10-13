@@ -1,6 +1,11 @@
 # Sydney Roleplay - Chat Prefixes
 Copy and paste these before any message you want to make official. Prefixes automatically start on the line prior to your actually chat message.
 
+---
+
+# Detailed Versions
+Detailed versions should only be used for very short messages, as they take up most of the message space.
+
 ## 👑 Leadership Team
 > <font size="2"><font color="#86cafe">[LEADERSHIP]</font></b></font><br />
 Hello
@@ -93,4 +98,92 @@ Hello
 
 ```md
  <font size="12"><b><font color="ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="ad343e">]</font></b></font><br />
+```
+
+---
+
+# Basic/Compact
+Basic prefixes consist of a single colour prefix and don't use "SR" or "JR" modifiers.
+
+## 👑 Leadership
+> <font size="2" color="#86cafe">[LEADERSHIP]</font><br />
+Hello
+
+```md
+<font size="12" color="#86cafe">[LEADERSHIP]</font><br />
+```
+
+## 🛠️ Senior Management
+> <font size="2" color="#258fe1">[MANAGEMENT]</font><br />
+Hello
+
+```md
+<font size="12" color="#258fe1">[MANAGEMENT]</font><br />
+```
+
+## 🛠️ Management
+> <font size="2" color="#8686fe">[MANAGEMENT]</font><br />
+Hello
+
+```md
+<font size="12" color="#8686fe">[MANAGEMENT]</font><br />
+```
+
+## 🛡️ Administration Team
+> <font size="2" color="#e991c2">[ADMINISTRATOR]</font><br />
+Hello
+
+```md
+<font size="12" color="#e991c2">[ADMINISTRATOR]</font><br />
+```
+
+## 🔨 Moderation Team
+> <font size="2" color="#ad343e">[MODERATOR]</font><br />
+Hello
+
+```md
+<font size="12" color="#ad343e">[MODERATOR]</font><br />
+```
+
+## 🌿 Trainee
+> <font size="2" color="#3dff64">[TRAINEE]</font><br />
+Hello
+
+```md
+<font size="12" color="#3dff64">[TRAINEE]</font><br />
+```
+
+# "UBasic"/Ultra-compact
+UBasic prefixes consist only of a single enlarged emoji and no text. Best for longer messages without a need for upmost formality
+
+## 👑 Crown (Leadership)
+> <font size="6">👑</font><br />
+Hello
+
+```md
+<font size="36">👑</font><br />
+```
+
+## 🛠️ Hammer and Wrench (Management)
+> <font size="6">🛠️</font><br />
+Hello
+
+```md
+<font size="36">🛠️</font><br />
+```
+
+## 🛡️ Shield (Moderator)
+> <font size="6">🛡️</font><br />
+Hello
+
+```md
+<font size="36">🛡️</font><br />
+```
+
+## 🌿 Leaf (Trainee)
+> <font size="6">🌿</font><br />
+Hello
+
+```md
+<font size="36">🌿</font><br />
 ```
