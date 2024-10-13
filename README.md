@@ -187,3 +187,29 @@ Hello
 ```md
 <font size="36">🌿</font><br />
 ```
+
+# Novelty (Basic/Compact)
+
+## ⛔ Staff Blacklisted
+> <b><font size="2" color="#000000">[STAFF BLACKLISTED]</font></b><br />
+Hello
+
+```md
+<b><font size="2" color="#000000">[STAFF BLACKLISTED]</font></b><br />
+```
+
+## 🎭 Quarantined
+> <b><font size="2" color="#B38844">[QUARANTINED]</font></b><br />
+Hello
+
+```md
+<b><font size="2" color="#B38844">[QUARANTINED]</font></b><br />
+```
+
+## 🔎 Under Investigation
+> <b><font size="2" color="#590000">[UNDER INVESTIGATION]</font></b><br />
+Hello
+
+```md
+<b><font size="2" color="#590000">[UNDER INVESTIGATION]</font></b><br />
+```
