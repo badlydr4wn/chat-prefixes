@@ -1,201 +1,108 @@
-# Sydney Roleplay - Chat Prefixes
-Copy and paste these before any message you want to make official. Prefixes automatically start on the line prior to your actually chat message.
+# 🌴 Sydney Roleplay Staff - Chat Prefixes
+Chat Prefixes are special snippets that you can paste before your messages and add a little bit more formality as staff. They are completely decorative and it's up to you whether you want to use them. A tutorial on how to use them is found below. (**📚 Tutorial**)
 
----
+## 📑 Rich Text Markup
+Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/rich-text) feature within chat bubbles do display text of varying features and allows for:
+- [Colours](https://create.roblox.com/docs/ui/rich-text#color)
+- [Sizes](https://create.roblox.com/docs/ui/rich-text#size)
+- [Fonts](https://create.roblox.com/docs/ui/rich-text#font-face)
+- [Transparency](https://create.roblox.com/docs/ui/rich-text#transparency)
+- Formatting ([Bold](https://create.roblox.com/docs/ui/rich-text#bold), [Italic](https://create.roblox.com/docs/ui/rich-text#italic), [Underline](https://create.roblox.com/docs/ui/rich-text#underline), etc.)
+- [Line Breaks](https://create.roblox.com/docs/ui/rich-text#line-break)
+- [Small Caps](https://create.roblox.com/docs/ui/rich-text#small-caps)
+- And more!
 
-# Detailed Versions
-Detailed versions should only be used for very short messages, as they take up most of the message space.
+## 📚 Tutorial
+1. Copy your prefered Chat Prefix
+2. Paste this into your ROBLOX chat and type a short message after (*all in the same message*)
+3. Send the message, you should get a result like the following:
+> <b><font color="#258fe1" size="2">[SR MANAGEMENT]</font></b><br />
+> Hello, world!
 
-## 👑 Leadership Team
-> <font size="2"><font color="#86cafe">[LEADERSHIP]</font></b></font><br />
-Hello
+## 🔎 FAQ
+- **It didn't work, it just returned a bunch of code.**
+  - Either you pasted an incomplete prefix or an invalid/broken prefix.
+- **It didn't work, it got filtered.**
+  - The markup prefix is filtered identically to normal messages, so some parts may trigger the filter.
+- **Can you make it automatically add it?**
+  - No. That is essentially impossible to do without exploiting.
+- **Can you add `x` prefix?**
+  - Ask me, or if you can try reading the [Rich Text Markup](https://create.roblox.com/docs/ui/rich-text) docs and make your  own.
+- **When should I use a prefix?**
+  - Use them at your own descretion, maybe in your greeting. It's up to you. They aren't mandatory in any way.
+- **What's the differenced betweens Detailed, Basic, and UBasic prefixes?**
+  - *Detailed* prefixes look slightly better and take up significantly more message space.
+  - *Basic* prefixes take up less space while sacrificing detail.
+  - *UBasic* prefixes are a single emoji in a larger font size. They are the most efficient in terms of message space.
 
-```md
-<font size="12"><font color="#86cafe">[LEADERSHIP]</font></b></font><br />
-```
+## 📰 Detailed Prefixes
+Detailed prefixes have seperately coloured brackets and look slightly better. This comes at the cost of higher message usage.
 
-## 🛠️ Management Team
+### 👑 Leadership Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b> | `<b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b><br />` |
 
-### 🛠️ Senior Management
-> <font size="2"><b><font color="#8686fe">[</font><font color="#258fe1">SR MANAGEMENT</font><font color="#8686fe">]</font></b></font><br />
-Hello
+### 🛠️ Management Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#8686fe" size="2">[<font color="#258fe1">SR MANAGEMENT</font>]</font></b> | `<b><font color="#8686fe" size="12">[<font color="#258fe1">SR MANAGEMENT</font>]</font></b><br />` |
+| <b><font color="#258fe1" size="2">[<font color="#8686fe">MANAGEMENT</font>]</font></b> | `<b><font color="#258fe1" size="2">[<font color="#8686fe">MANAGEMENT</font>]</font></b><br />`|
 
-```md
-<font size="12"><b><font color="#8686fe">[</font><font color="#258fe1">SR MANAGEMENT</font><font color="#8686fe">]</font></b></font><br />
-```
+### 🛡️ Administration Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR<</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR<</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR<</font>]</font></b><br />`|
 
-### 🛠️ Management
-> <font size="2"><b><font color="#258fe1">[</font><font color="#8686fe">MANAGEMENT</font><font color="#258fe1">]</font></b></font><br />
-Hello
+### 🔨 Moderation Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#ad343e" size="2">[<font color="#c43b46">SR MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#c43b46">SR MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#ad343e">MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#ad343e">MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#962d36">JR MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#962d36">JR MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#ff6978">TRIAL MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#ff6978">TRIAL MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#3dff64">TRAINEE</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#3dff64">TRAINEE</font>]</font></b><br />`|
 
-```md
-<font size="12"><b><font color="#258fe1">[</font><font color="#8686fe">MANAGEMENT</font><font color="#258fe1">]</font></b></font><br />
-```
+## 📃 Basic Prefixes
+Basic prefixes use a single colour throughout and are more accessible. They are generally more effecient than detailed prefixes.
 
-## 🛡️ Administration Team
+### 👑 Leadership Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#86cafe" size="2">[LEADERSHIP]</font></b> | `<b><font color="#86cafe" size="12">[LEADERSHIP]</font></b><br />` |
 
-### 🛡️ Senior Administrator
-> <font size="2"><b><font color="#e991c2">[</font><font color="#ff9ed3">SR ADMINISTRATOR</font><font color="#e991c2">]</font></b></font><br />
-Hello
+### 🛠️ Management Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#258fe1" size="2">[SR MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[MANAGEMENT]</font></b><br />` |
+| <b><font color="#8686fe" size="2">[MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[MANAGEMENT]</font></b><br />` |
 
-```md
-<font size="12"><b><font color="#e991c2">[</font><font color="#ff9ed3">SR ADMINISTRATOR</font><font color="#e991c2">]</font></b></font><br />
-```
+### 🛡️ Administration Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#e991c2" size="2">[SR ADMINISTRATOR]</font></b> | `<b><font color="#e991c2" size="12">[SR ADMINISTRATOR]</font></b><br />` |
+| <b><font color="#e991c2" size="2">[ADMINISTRATOR]</font></b> | `<b><font color="#e991c2" size="12">[ADMINISTRATOR]</font></b><br />` |
+| <b><font color="#e991c2" size="2">[JR ADMINISTRATOR]</font></b> | `<b><font color="#e991c2" size="12">[JR ADMINISTRATOR]</font></b><br />` |
 
-### 🛡️ Administrator
-> <font size="2"><b><font color="#e991c2">[</font><font color="#e991c">ADMINISTRATOR</font><font color="#e991c2">]</font></b></font><br />
-Hello
+### 🔨 Moderation Team
+| Preview | Markup |
+| --- | --- |
+| <b><font color="#ad343e" size="2">[SR MODERATOR]</font></b> | `<b><font color="#ad343e" size="12">[SR MODERATOR]</font></b><br />` |
+| <b><font color="#ad343e" size="2">[MODERATOR]</font></b> | `<b><font color="#ad343e" size="12">[MODERATOR]</font></b><br />` |
+| <b><font color="#ad343e" size="2">[JR MODERATOR]</font></b> | `<b><font color="#ad343e" size="12">[JR MODERATOR]</font></b><br />` |
+| <b><font color="#ff6978" size="2">[TRIAL MODERATOR]</font></b> | `<b><font color="#ff6978" size="12">[TRIAL MODERATOR]</font></b><br />` |
+| <b><font color="#3dff64" size="2">[TRAINEE]</font></b> | `<b><font color="#3dff64" size="12">[TRAINEE]</font></b><br />` |
 
-```md
-<font size="12"><b><font color="#e991c2">[</font><font color="#e991c">ADMINISTRATOR</font><font color="#e991c2">]</font></b></font><br />
-```
 
-### 🛡️ Junior Administrator
-> <font size="2"><b><font color="#e991c2">[</font><font color="#d182ad">JR ADMINISTRATOR</font><font color="#e991c2">]</font></b></font><br />
-Hello
+## 📄 UBasic Prefixes
+UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font size. They should be used more as indicators than prefixes.
 
-```md
-<font size="12"><b><font color="#e991c2">[</font><font color="#d182ad">JR ADMINISTRATOR</font><font color="#e991c2">]</font></b></font><br />
-```
+*Coming soon...*
 
-## 🔨 Moderation Team
 
-### 🔨 Senior Moderator
-> <font size="2"><b><font color="#ad343e">[</font><font color="#c43b46">SR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-Hello
+## 🗞️ Other Prefixes
+Miscallenous prefixes fall under here. They mostly are impractical and shouldn't be formally used.
 
-```md
- <font size="12"><b><font color="#ad343e">[</font><font color="#c43b46">SR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-```
-
-### 🔨 Moderator
-> <font size="2"><b><font color="#ad343e">[</font><font color="#ad343e">MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-Hello
-
-```md
- <font size="12"><b><font color="#ad343e">[</font><font color="#ad343e">MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-```
-
-### 🔨 Junior Moderator
-> <font size="2"><b><font color="#ad343e">[</font><font color="#962d36">JR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-Hello
-
-```md
- <font size="12"><b><font color="#ad343e">[</font><font color="#962d36">JR MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-```
-
-### 🔨 Trial Moderator
-> <font size="2"><b><font color="#ad343e">[</font><font color="#ff6978">TRIAL MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-Hello
-
-```md
- <font size="12"><b><font color="#ad343e">[</font><font color="#ff6978">TRIAL MODERATOR</font><font color="#ad343e">]</font></b></font><br />
-```
-
-### 🌿 Trainee
-> <font size="2"><b><font color="#ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="#ad343e">]</font></b></font><br />
-Hello
-
-```md
- <font size="12"><b><font color="#ad343e">[</font><font color="#3dff64">TRAINEE</font><font color="#ad343e">]</font></b></font><br />
-```
-
----
-
-# Basic/Compact
-Basic prefixes consist of a single colour prefix and don't use "SR" or "JR" modifiers.
-
-## 👑 Leadership
-> <b><font size="2" color="#86cafe">[LEADERSHIP]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#86cafe">[LEADERSHIP]</font></b><br />
-```
-
-## 🛠️ Senior Management
-> <b><font size="2" color="#258fe1">[MANAGEMENT]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#258fe1">[MANAGEMENT]</font></b><br />
-```
-
-## 🛠️ Management
-> <b><font size="2" color="#8686fe">[MANAGEMENT]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#8686fe">[MANAGEMENT]</font></b><br />
-```
-
-## 🛡️ Administration Team
-> <b><font size="2" color="#e991c2">[ADMINISTRATOR]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#e991c2">[ADMINISTRATOR]</font></b><br />
-```
-
-## 🔨 Moderation Team
-> <b><font size="2" color="#ad343e">[MODERATOR]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#ad343e">[MODERATOR]</font></b><br />
-```
-
-## 🌿 Trainee
-> <b><font size="2" color="#3dff64">[TRAINEE]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#3dff64">[TRAINEE]</font></b><br />
-```
-
-# "UBasic"/Ultra-compact
-UBasic prefixes consist only of a single enlarged emoji and no text. Best for longer messages without a need for upmost formality
-
-## 👑 Crown (Leadership)
-> <font size="6">👑</font><br />
-Hello
-
-```md
-<font size="36">👑</font><br />
-```
-
-## 🛠️ Hammer and Wrench (Management)
-> <font size="6">🛠️</font><br />
-Hello
-
-```md
-<font size="36">🛠️</font><br />
-```
-
-## 🛡️ Shield (Administrator/Moderator)
-> <font size="6">🛡️</font><br />
-Hello
-
-```md
-<font size="36">🛡️</font><br />
-```
-
-## 🌿 Leaf (Trainee)
-> <font size="6">🌿</font><br />
-Hello
-
-```md
-<font size="36">🌿</font><br />
-```
-
-# Novelty (Basic/Compact)
-
-## ⛔ Staff Blacklisted
-> <b><font size="2" color="#000000">[STAFF BLACKLISTED]</font></b><br />
-Hello
-
-```md
-<b><font size="12" color="#000000">[STAFF BLACKLISTED]</font></b><br />
-```
-
-*More coming soon...*
+*Coming soon...*
