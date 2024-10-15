@@ -49,7 +49,7 @@ Detailed prefixes have seperately coloured brackets and look slightly better. Th
 | Preview | Markup |
 | --- | --- |
 | <b><font color="#8686fe" size="2">[<font color="#258fe1">SR MANAGEMENT</font>]</font></b> | `<b><font color="#8686fe" size="12">[<font color="#258fe1">SR MANAGEMENT</font>]</font></b><br />` |
-| <b><font color="#258fe1" size="2">[<font color="#8686fe">MANAGEMENT</font>]</font></b> | `<b><font color="#258fe1" size="2">[<font color="#8686fe">MANAGEMENT</font>]</font></b><br />`|
+| <b><font color="#258fe1" size="2">[<font color="#8686fe">MANAGEMENT</font>]</font></b> | `<b><font color="#258fe1" size="12">[<font color="#8686fe">MANAGEMENT</font>]</font></b><br />`|
 
 ### 🛡️ Administration Team
 | Preview | Markup |
