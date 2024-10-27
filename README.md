@@ -1,4 +1,4 @@
-**Coloured Preview**: [Download this page](https://raw.githubusercontent.com/badlydr4wn/srp-chat-prefixes/refs/heads/main/README.md) and view in [Visual Studio Code](https://code.visualstudio.com)instead.
+**Coloured Preview**: [Download this page](https://raw.githubusercontent.com/badlydr4wn/srp-chat-prefixes/refs/heads/main/README.md) and view in [Visual Studio Code](https://code.visualstudio.com) instead.
 
 # 🌴 Sydney Roleplay Staff - Chat Prefixes
 Chat Prefixes are special snippets that you can paste before your messages and add a little bit more formality as staff. They are completely decorative and it's up to you whether you want to use them. A tutorial on how to use them is found below. (**📚 Tutorial**)
@@ -79,7 +79,7 @@ Basic prefixes use a single colour throughout and are more accessible. They are 
 | Preview | Markup |
 | --- | --- |
 | <b><font color="#258fe1" size="2">[SR MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[MANAGEMENT]</font></b><br />` |
-| <b><font color="#8686fe" size="2">[MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[MANAGEMENT]</font></b><br />` |
+| <b><font color="#8686fe" size="2">[MANAGEMENT]</font></b> | `<b><font color="#8686fe" size="12">[MANAGEMENT]</font></b><br />` |
 
 ### 🛡️ Administration Team
 | Preview | Markup |
