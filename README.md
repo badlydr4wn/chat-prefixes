@@ -54,9 +54,9 @@ Detailed prefixes have seperately coloured brackets and look slightly better. Th
 ### 🛡️ Administration Team
 | Preview | Markup |
 | --- | --- |
-| <b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR<</font>]</font></b><br />`|
-| <b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR<</font>]</font></b><br />`|
-| <b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR<</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b><br />`|
 
 ### 🔨 Moderation Team
 | Preview | Markup |
