@@ -54,18 +54,18 @@ Detailed prefixes have seperately coloured brackets and look slightly better. Th
 ### 🛡️ Administration Team
 | Preview | Markup |
 | --- | --- |
-| <b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b><br />`|
-| <b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b><br />`|
-| <b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="12">[<font color="#ff9ed3">SR ADMINISTRATOR</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size=1"2">[<font color="#e991c">ADMINISTRATOR</font>]</font></b><br />`|
+| <b><font color="#e991c2" size="2">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b> | `<b><font color="#e991c2" size="12">[<font color="#d182ad">JR ADMINISTRATOR</font>]</font></b><br />`|
 
 ### 🔨 Moderation Team
 | Preview | Markup |
 | --- | --- |
-| <b><font color="#ad343e" size="2">[<font color="#c43b46">SR MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#c43b46">SR MODERATOR</font>]</font></b><br />`|
-| <b><font color="#ad343e" size="2">[<font color="#ad343e">MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#ad343e">MODERATOR</font>]</font></b><br />`|
-| <b><font color="#ad343e" size="2">[<font color="#962d36">JR MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#962d36">JR MODERATOR</font>]</font></b><br />`|
-| <b><font color="#ad343e" size="2">[<font color="#ff6978">TRIAL MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#ff6978">TRIAL MODERATOR</font>]</font></b><br />`|
-| <b><font color="#ad343e" size="2">[<font color="#3dff64">TRAINEE</font>]</font></b> | `<b><font color="#ad343e" size="2">[<font color="#3dff64">TRAINEE</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#c43b46">SR MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="12">[<font color="#c43b46">SR MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#ad343e">MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="12">[<font color="#ad343e">MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#962d36">JR MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="12">[<font color="#962d36">JR MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#ff6978">TRIAL MODERATOR</font>]</font></b> | `<b><font color="#ad343e" size="12">[<font color="#ff6978">TRIAL MODERATOR</font>]</font></b><br />`|
+| <b><font color="#ad343e" size="2">[<font color="#3dff64">TRAINEE</font>]</font></b> | `<b><font color="#ad343e" size="12">[<font color="#3dff64">TRAINEE</font>]</font></b><br />`|
 
 ## 📃 Basic Prefixes
 Basic prefixes use a single colour throughout and are more accessible. They are generally more effecient than detailed prefixes.
