@@ -43,7 +43,7 @@ Detailed prefixes have seperately coloured brackets and look slightly better. Th
 ### 👑 Leadership Team
 | Preview | Markup |
 | --- | --- |
-| <b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b> | `<b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b><br />` |
+| <b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b> | `<b><font color="#6ca2cc" size="12">[<font color="#86cafe">LEADERSHIP</font>]</font></b><br />` |
 
 ### 🛠️ Management Team
 | Preview | Markup |
