@@ -100,11 +100,16 @@ Basic prefixes use a single colour throughout and are more accessible. They are 
 
 ## 📄 UBasic Prefixes
 UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font size. They should be used more as indicators than prefixes.
-
-*Coming soon...*
+| Preview | Markup |
+| --- | --- |
+| <font size="6">🛡️</font> | `<font size="36">🛡️</font>` |
+*More coming soon...*
 
 
 ## 🗞️ Other Prefixes
 Miscallenous prefixes fall under here. They mostly are impractical and shouldn't be formally used.
 
 *Coming soon...*
+
+## 📜 Templates
+Miscallenous prefixes fall under here. They mostly are impractical and shouldn't be formally used.
