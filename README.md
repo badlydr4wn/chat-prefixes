@@ -99,10 +99,16 @@ Basic prefixes use a single colour throughout and are more accessible. They are 
 
 
 ## 📄 UBasic Prefixes
-UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font size. They should be used more as indicators than prefixes.
+UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font size. They should be used more as indicator for something rather than actual prefixes.
 | Preview | Markup |
 | --- | --- |
+| <font size="6">📢</font> | `<font size="36">📢</font>` |
+| <font size="6">🚫</font> | `<font size="36">🚫</font>` |
+| <font size="6">🚨</font> | `<font size="36">🚨</font>` |
+| <font size="6">⚠️</font> | `<font size="36">⚠️</font>` |
+| <font size="6">✅</font> | `<font size="36">✅</font>` |
 | <font size="6">🛡️</font> | `<font size="36">🛡️</font>` |
+
 *More coming soon...*
 
 
