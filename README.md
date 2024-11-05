@@ -3,7 +3,7 @@
 # 🌴 Sydney Roleplay Staff - Chat Prefixes
 Chat Prefixes are special snippets that you can paste before your messages and add a little bit more formality as staff. They are completely decorative and it's up to you whether you want to use them. A tutorial on how to use them is found below. (**📚 Tutorial**)
 
-## 📑 Rich Text Markup
+## 📝 How It Works
 Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/rich-text) feature within chat bubbles do display text of varying features and allows for:
 - [Colours](https://create.roblox.com/docs/ui/rich-text#color)
 - [Sizes](https://create.roblox.com/docs/ui/rich-text#size)
@@ -37,7 +37,15 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
   - *Basic* prefixes take up less space while sacrificing detail.
   - *UBasic* prefixes are a single emoji in a larger font size. They are the most efficient in terms of message space.
 
-## 📰 Detailed Prefixes
+## 📑 Rich Text Markup
+| Type | Preview | Markup |
+| --- | --- | --- |
+| Colour | I want the <font color="#FF7800">orange</font> candy. | `<font color="#` `hexValue` `"> </font>`<br />(compatible with `rgb(#,#,#)`) |
+| Size | <font size="6">This is big.</font> <font size="2">This is small.</font> | `<font size="` `fontSize` `"> </font>`<br />(fontSize default: 14) |
+| Font | <font face="Michroma">This is Michroma face.</font> | `<font face="` `fontFace` `"> </font>`<br />(see [Fonts](https://create.roblox.com/docs/reference/engine/enums/Font)) |
+| Weight | This is normal. <b>This is heavy.</b> | `<font weight="` `fontWeight` `"> </font>` |
+| Stroke | You won <span style="color: #fffff; text-shadow: -2px -2px 0 #00A2FF25, 2px -2px 0 #00A2FF25, -2px 2px 0 #00A2FF25, 2px 2px 0 #00A2FF25;">25 gems</span>. | `<stroke color="` `strokeColour` `"</stroke>`<br />`<stroke thickness="` `strokeThickness` `"</stroke>`<br />`<stroke joins="` `strokeJoins` `"</stroke>`<br />`<stroke transparency="` `strokeTransparency` `"</stroke>`|
+
 Detailed prefixes have seperately coloured brackets and look slightly better. This comes at the cost of higher message usage.
 
 ### 👑 Leadership Team
@@ -109,11 +117,6 @@ UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font
 | Accepted | <font size="6">✅</font> | `<font size="36">✅</font><br />` |
 | Moderator | <font size="6">🛡️</font>| `<font size="36">🛡️</font><br />` |
 
-## 🗞️ Other Prefixes
-Miscallenous prefixes fall under here. They mostly are impractical and shouldn't be formally used.
-
-*Coming soon...*
-
 ## 📜 Templates
 These are blank prefixes with placeholder values for attributes such as colour, size, etc.
 | Type | Preview | Markup |
@@ -121,6 +124,3 @@ These are blank prefixes with placeholder values for attributes such as colour, 
 | Detailed | <b><font color="#808080" size="2">[<font color="#ffffff">PLACEHOLDER</font>]</font></b> | `<b><font color="` `#COLOR` `" size="12">[<font color="#ffffff">[` `PLACEHOLDER` `]</font>]</font></b><br /> ` |
 | Basic | <b><font color="#ffffff" size="2">[PLACEHOLDER]</font></b> | `<b><font color="` `#COLOR` `" size="12">[` `PLACEHOLDER` `]</font></b><br />`|
 | UBasic | <font size="6">■</font> | `<font size="36">` `PLACEHOLDER` `</font><br />` |
-
-| Type | Preview | Markup |
-| --- | --- | --- |
