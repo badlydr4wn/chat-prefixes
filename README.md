@@ -3,7 +3,7 @@
 # 🌴 Sydney Roleplay Staff - Chat Prefixes
 Chat Prefixes are special snippets that you can paste before your messages and add a little bit more formality as staff. They are completely decorative and it's up to you whether you want to use them. A tutorial on how to use them is found below. (**📚 Tutorial**)
 
-## 📝 How It Works
+## 📑 Rich Text Markup
 Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/rich-text) feature within chat bubbles do display text of varying features and allows for:
 - [Colours](https://create.roblox.com/docs/ui/rich-text#color)
 - [Sizes](https://create.roblox.com/docs/ui/rich-text#size)
@@ -13,6 +13,22 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
 - [Line Breaks](https://create.roblox.com/docs/ui/rich-text#line-break)
 - [Small Caps](https://create.roblox.com/docs/ui/rich-text#small-caps)
 - And more!
+
+---
+
+| Type | Preview | Markup |
+| --- | --- | --- |
+| Colour | I want the <font color="#FF7800">orange</font> candy. | `<font color="#` `hexValue` `">` `textContent` `</font>`<br />(compatible with `rgb(#,#,#)` values) |
+| Size | <font size="6">This is big.</font> <font size="2">This is small.</font> | `<font size="` `fontSize` `">` `textContent` `</font>`<br />(fontSize default: 14) |
+| Font | <font face="Michroma">This is Michroma face.</font> | `<font face="` `fontFace` `">` `textContent` `</font>`<br />(see [Fonts](https://create.roblox.com/docs/reference/engine/enums/Font)) |
+| Weight | This is normal. <b>This is heavy.</b> | `<font weight="` `fontWeight` `">` `textContent` `</font>` |
+| Stroke | You won <span style="color: #fffff; text-shadow: -2px -2px 0 #00A2FF25, 2px -2px 0 #00A2FF25, -2px 2px 0 #00A2FF25, 2px 2px 0 #00A2FF25;">25 gems</span>. | `<stroke color="` `strokeColour` `">` `textContent` `</stroke>`<br />`<stroke thickness="` `strokeThickness` `">` `textContent` `</stroke>`<br />`<stroke joins="` `strokeJoins` `">` `textContent` `</stroke>`<br />`<stroke transparency="` `strokeTransparency` `">` `textContent` `</stroke>`<br /> (see [Appearance Modifiers](https://create.roblox.com/docs/ui/appearance-modifiers)) |
+| Transparency | Text at <font transparency="0.5">50% transparency</font>. | `<font transparency="` `textTransparency` `">` `textContent` `</font>` |
+| Formatting | Text in <b>bold</b>. <br />Text <i>italicized</i>. <br />Text <u>underlined</u>. <br/>Text with <s>strikethrough</s> applied.<br /> | `<b>` `textContent` `</b>`<br />`<i>` `textContent` `</i>`<br />`<u>` `textContent` `</u>`<br />`<s>` `textContent` `</s>` |
+| Line Breaks | New line occurs after this sentence.<br />Next sentence... | `<br />` |
+| Capitalisation | UPPERCASE makes words read loudly! | `<uc>` `textContent` `</uc>` |
+| Small Capitals | My name is <sc>Dɪᴠᴀ Dʀᴀɢᴏɴsʟᴀʏᴇʀ | `<sc>` `textContent` `</sc>` |
+| Comments | After this is a comment...<!--This does not appear in the final text--> and now more text...<br />(`After this is a comment...<!--This does not appear in the final text--> and now more text...`) | `<!--` `textContent` `-->` |
 
 ## 📚 Tutorial
 1. Copy your prefered Chat Prefix
@@ -37,15 +53,7 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
   - *Basic* prefixes take up less space while sacrificing detail.
   - *UBasic* prefixes are a single emoji in a larger font size. They are the most efficient in terms of message space.
 
-## 📑 Rich Text Markup
-| Type | Preview | Markup |
-| --- | --- | --- |
-| Colour | I want the <font color="#FF7800">orange</font> candy. | `<font color="#` `hexValue` `"> </font>`<br />(compatible with `rgb(#,#,#)`) |
-| Size | <font size="6">This is big.</font> <font size="2">This is small.</font> | `<font size="` `fontSize` `"> </font>`<br />(fontSize default: 14) |
-| Font | <font face="Michroma">This is Michroma face.</font> | `<font face="` `fontFace` `"> </font>`<br />(see [Fonts](https://create.roblox.com/docs/reference/engine/enums/Font)) |
-| Weight | This is normal. <b>This is heavy.</b> | `<font weight="` `fontWeight` `"> </font>` |
-| Stroke | You won <span style="color: #fffff; text-shadow: -2px -2px 0 #00A2FF25, 2px -2px 0 #00A2FF25, -2px 2px 0 #00A2FF25, 2px 2px 0 #00A2FF25;">25 gems</span>. | `<stroke color="` `strokeColour` `"</stroke>`<br />`<stroke thickness="` `strokeThickness` `"</stroke>`<br />`<stroke joins="` `strokeJoins` `"</stroke>`<br />`<stroke transparency="` `strokeTransparency` `"</stroke>`|
-
+## 📰 Detailed Prefixes
 Detailed prefixes have seperately coloured brackets and look slightly better. This comes at the cost of higher message usage.
 
 ### 👑 Leadership Team
