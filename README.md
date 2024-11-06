@@ -16,6 +16,7 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
 
 ---
 
+*Note: Certain previews will not display properly as Github doesn't display the formatting properly.*
 | Type | Preview | Markup |
 | --- | --- | --- |
 | Colour | I want the <font color="#FF7800">orange</font> candy. | `<font color="#` `hexValue` `">` `textContent` `</font>`<br />(compatible with `rgb(#,#,#)` values) |
