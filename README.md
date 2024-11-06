@@ -62,11 +62,12 @@ Detailed prefixes have seperately coloured brackets and look slightly better. Th
 | --- | --- | --- |
 | Leadership Team | <b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b> | `<b><font color="#6ca2cc" size="12">[<font color="#86cafe">LEADERSHIP</font>]</font></b><br />` |
 
-### 🛠️ Management Team
+### 🛠️ Supervisor/Management Team
 | Role | Preview | Markup |
 | --- | --- | --- |
 | Senior Management | <b><font color="#8686fe" size="2">[<font color="#258fe1">SR MANAGEMENT</font>]</font></b> | `<b><font color="#8686fe" size="12">[<font color="#258fe1">SR MANAGEMENT</font>]</font></b><br />` |
 | Management Team | <b><font color="#258fe1" size="2">[<font color="#8686fe">MANAGEMENT</font>]</font></b> | `<b><font color="#258fe1" size="12">[<font color="#8686fe">MANAGEMENT</font>]</font></b><br />`|
+| Supervisor | <b><font color="#417a4b" size="2">[<font color="#5CAD6B">SUPERVISOR</font>]</font></b> | `<b><font color="#417a4b" size="12">[<font color="#5CAD6B">SUPERVISOR</font>]</font></b><br />` |
 
 ### 🛡️ Administration Team
 | Role | Preview | Markup |
@@ -92,11 +93,12 @@ Basic prefixes use a single colour throughout and are more accessible. They are 
 | --- | --- | --- |
 | Leadership Team | <b><font color="#86cafe" size="2">[LEADERSHIP]</font></b> | `<b><font color="#86cafe" size="12">[LEADERSHIP]</font></b><br />` |
 
-### 🛠️ Management Team
+### 🛠️ Supervisor/Management Team
 | Role | Preview | Markup |
 | --- | --- | --- |
 | Senior Management | <b><font color="#258fe1" size="2">[SR MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[MANAGEMENT]</font></b><br />` |
 | Management Team | <b><font color="#8686fe" size="2">[MANAGEMENT]</font></b> | `<b><font color="#8686fe" size="12">[MANAGEMENT]</font></b><br />` |
+| Supervisor | <b><font color="#5CAD6B" size="2">[SUPERVISOR]</font></b> |  `<b><font color="#5CAD6B" size="2">[SUPERVISOR]</font></b><br />` |
 
 ### 🛡️ Administration Team
 | Role | Preview | Markup |
