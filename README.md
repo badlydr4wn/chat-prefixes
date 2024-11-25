@@ -1,9 +1,13 @@
-**Coloured Preview**: [Download this page](https://raw.githubusercontent.com/badlydr4wn/srp-chat-prefixes/refs/heads/main/README.md) and view in [Visual Studio Code](https://code.visualstudio.com) instead.
+> [!NOTE]
+> Due to GitHub limitations, colours aren't properly displayed. [Download this page](https://raw.githubusercontent.com/badlydr4wn/srp-chat-prefixes/refs/heads/main/README.md) and view in [Visual Studio Code](https://code.visualstudio.com) instead.
 
 # 🌴 Sydney Roleplay Staff - Chat Prefixes
 Chat Prefixes are special snippets that you can paste before your messages and add a little bit more formality as staff. They are completely decorative and it's up to you whether you want to use them. A tutorial on how to use them is found below. (**📚 Tutorial**)
 
 ## 📑 Rich Text Markup
+> [!CAUTION]
+> Custom Prefixes are restricted to **Supervisor**+ or with explicit permission from **Management+**.
+
 Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/rich-text) feature within chat bubbles do display text of varying features and allows for:
 - [Colours](https://create.roblox.com/docs/ui/rich-text#color)
 - [Sizes](https://create.roblox.com/docs/ui/rich-text#size)
@@ -55,7 +59,8 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
   - *UBasic* prefixes are a single emoji in a larger font size. They are the most efficient in terms of message space.
 
 ## 📰 Detailed Prefixes
-Detailed prefixes have seperately coloured brackets and look slightly better. This comes at the cost of higher message usage.
+> [!TIP]  
+> Detailed prefixes have seperately coloured brackets and look slightly better. This comes at the cost of higher message usage.
 
 ### 👑 Leadership Team
 | Role | Preview | Markup |
@@ -86,7 +91,8 @@ Detailed prefixes have seperately coloured brackets and look slightly better. Th
 | Moderator Trainee | <b><font color="#ad343e" size="2">[<font color="#3dff64">TRAINEE</font>]</font></b> | `<b><font color="#ad343e" size="12">[<font color="#3dff64">TRAINEE</font>]</font></b><br />`|
 
 ## 📃 Basic Prefixes
-Basic prefixes use a single colour throughout and are more accessible. They are generally more effecient than detailed prefixes.
+> [!TIP]  
+> Basic prefixes use a single colour throughout and are more accessible. They are generally more effecient than detailed prefixes.
 
 ### 👑 Leadership Team
 | Role | Preview | Markup |
@@ -118,7 +124,9 @@ Basic prefixes use a single colour throughout and are more accessible. They are 
 
 
 ## 📄 UBasic Prefixes
-UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font size. They should be used more as indicator for something rather than actual prefixes.
+> [!TIP]  
+> UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font size. They should be used more as indicator for something rather than actual prefixes.
+
 | Indicator | Preview | Markup |
 | --- | --- | --- |
 | Announcement | <font size="6">📢</font> | `<font size="36">📢</font><br />` |
@@ -129,7 +137,12 @@ UBasic prefixes, or *Ultra* Basic prefiex consist of a single emoji in a 3x font
 | Moderator | <font size="6">🛡️</font>| `<font size="36">🛡️</font><br />` |
 
 ## 📜 Templates
-These are blank prefixes with placeholder values for attributes such as colour, size, etc.
+> [!CAUTION]
+> Custom Prefixes are restricted to **Supervisor**+ or with explicit permission from **Management+**.
+
+> [!TIP]  
+> These are blank prefixes with placeholder values for attributes such as colour, size, etc.
+
 | Type | Preview | Markup |
 | --- | --- | --- |
 | Detailed | <b><font color="#808080" size="2">[<font color="#ffffff">PLACEHOLDER</font>]</font></b> | `<b><font color="` `#COLOR` `" size="12">[<font color="#ffffff">[` `PLACEHOLDER` `]</font>]</font></b><br /> ` |
