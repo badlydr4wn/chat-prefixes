@@ -102,7 +102,7 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
 ### 🛠️ Supervisor/Management Team
 | Role | Preview | Markup |
 | --- | --- | --- |
-| Senior Management | <b><font color="#258fe1" size="2">[SR MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[MANAGEMENT]</font></b><br />` |
+| Senior Management | <b><font color="#258fe1" size="2">[SR MANAGEMENT]</font></b> | `<b><font color="#258fe1" size="12">[SR MANAGEMENT]</font></b><br />` |
 | Management Team | <b><font color="#8686fe" size="2">[MANAGEMENT]</font></b> | `<b><font color="#8686fe" size="12">[MANAGEMENT]</font></b><br />` |
 | Supervisor | <b><font color="#5CAD6B" size="2">[SUPERVISOR]</font></b> |  `<b><font color="#5CAD6B" size="12">[SUPERVISOR]</font></b><br />` |
 
