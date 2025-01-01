@@ -62,10 +62,10 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
 > [!TIP]  
 > Detailed prefixes have seperately coloured brackets and look slightly better. This comes at the cost of higher message usage.
 
-### 👑 Leadership Team
+### 👑 Directive Team
 | Role | Preview | Markup |
 | --- | --- | --- |
-| Leadership Team | <b><font color="#6ca2cc" size="2">[<font color="#86cafe">LEADERSHIP</font>]</font></b> | `<b><font color="#6ca2cc" size="12">[<font color="#86cafe">LEADERSHIP</font>]</font></b><br />` |
+| Directive Team | <b><font color="#6ca2cc" size="2">[<font color="#86cafe">DIRECTIVE</font>]</font></b> | `<b><font color="#6ca2cc" size="12">[<font color="#86cafe">DIRECTIVE</font>]</font></b><br />` |
 
 ### 🛠️ Supervisor/Management Team
 | Role | Preview | Markup |
@@ -94,10 +94,10 @@ Chat Prefixes use ROBLOX's [Rich Text Markup](https://create.roblox.com/docs/ui/
 > [!TIP]  
 > Basic prefixes use a single colour throughout and are more accessible. They are generally more effecient than detailed prefixes.
 
-### 👑 Leadership Team
+### 👑 Directive Team
 | Role | Preview | Markup |
 | --- | --- | --- |
-| Leadership Team | <b><font color="#86cafe" size="2">[LEADERSHIP]</font></b> | `<b><font color="#86cafe" size="12">[LEADERSHIP]</font></b><br />` |
+| Directive Team | <b><font color="#86cafe" size="2">[DIRECTIVE]</font></b> | `<b><font color="#86cafe" size="12">[DIRECTIVE]</font></b><br />` |
 
 ### 🛠️ Supervisor/Management Team
 | Role | Preview | Markup |
